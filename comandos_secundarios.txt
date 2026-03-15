@@ -1,1 +1,3 @@
 ESTE ARQUIVO CONTEM INFORMAÇÕES ADCIONAIS PARA GIT
+-primeiro comando
+- secundo comando
