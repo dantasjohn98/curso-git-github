@@ -4,7 +4,8 @@ git status 				- Mostra o status do trabalho
 git add nome_arquivo - Adiciona arquivo para ser commit
 git commit -m "msg" -> Faz commit do que estava para ser
 git log - Mostra todo o historico de commit
-
+git checkout nome - troca de branch
+git checkout -b nome - cria a branch
 
 ##### FLUXO DE TRABALHO
 1 criar diretorio
