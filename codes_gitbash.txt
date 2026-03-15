@@ -1,0 +1,4 @@
+codes git bash
+cd - mover o diretorio
+ls - mostrar arquivos no diretorio
+pwd - mostra o caminho do diretorio
