@@ -6,7 +6,9 @@ git commit -m "msg" -> Faz commit do que estava para ser
 git log - Mostra todo o historico de commit
 git checkout nome - troca de branch
 git checkout -b nome - cria a branch
-
+git merge branch - faz o merge com a outra branch
+git push origin branch - manda pra nuvem
+git remote add origin "link"
 ##### FLUXO DE TRABALHO
 1 criar diretorio
 2 iniciar git dentro do diretorio criado (git init.
@@ -17,3 +19,6 @@ git checkout -b nome - cria a branch
 7 git commit -m "mensagem qualquer"
 8 git status
 9 volta para o passo 3
+
+IMPORTANTE:Trabalho com o repositorio localmente na branch, sobre pro github e faz um pull request pra dar merge com a main no github
+
