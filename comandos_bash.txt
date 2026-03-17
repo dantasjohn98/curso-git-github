@@ -9,6 +9,8 @@ git checkout -b nome - cria a branch
 git merge branch - faz o merge com a outra branch
 git push origin branch - manda pra nuvem
 git remote add origin "link"
+git pull origin main - puxa os arquivos do github main para o repositorio local
+git branch -D "nome" - deleta a branch
 ##### FLUXO DE TRABALHO
 1 criar diretorio
 2 iniciar git dentro do diretorio criado (git init.
